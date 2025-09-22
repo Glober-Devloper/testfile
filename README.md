@@ -1,0 +1,1 @@
+ULTRA FileStore Bot (migration-safe) — auto-migrates DB on startup, button-only UI, Postgres persistence (asyncpg). Deploy with Docker on Render. Set env vars as in .env.example.
